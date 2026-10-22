@@ -1,0 +1,12 @@
+
+<resources>
+
+    <string name="app_name">Task Done</string>
+
+    <string name="task_title">All tasks completed</string>
+
+    <string name="task_message">Nice work!</string>
+
+    <string name="image_description">Task completed</string>
+
+</resources>

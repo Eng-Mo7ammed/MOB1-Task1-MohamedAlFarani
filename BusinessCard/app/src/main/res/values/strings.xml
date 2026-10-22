@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="logo_description">Android logo</string>
+    <string name="full_name">Mohamed M. Al-Farani</string>
+    <string name="job_title">Front-End Developer Student</string>
+    <string name="phone_number">+970 599 834 320</string>
+    <string name="social_media">\@MohamedAlFarani</string>
+    <string name="email_address">mohamed@frontend.com</string>
+</resources>

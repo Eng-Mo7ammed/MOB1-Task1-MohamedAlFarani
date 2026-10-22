@@ -1,0 +1,16 @@
+# Android Studio build and local machine files
+**/.gradle/
+**/build/
+**/.idea/
+**/.kotlin/
+**/local.properties
+**/*.iml
+**/.cxx/
+**/.externalNativeBuild/
+**/captures/
+**/*.apk
+**/*.aab
+
+# Operating system files
+Thumbs.db
+.DS_Store

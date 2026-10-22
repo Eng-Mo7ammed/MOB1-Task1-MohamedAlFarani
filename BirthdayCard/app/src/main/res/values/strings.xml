@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="birthday_message">Happy\nBirthday\nYousef!</string>
+    <string name="birthday_sender">From Mohamed</string>
+    <string name="background_description">Birthday background image</string>
+</resources>
